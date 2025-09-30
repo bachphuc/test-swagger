@@ -1,0 +1,4 @@
+[
+  "access_token_residentportal=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImxxYXRpZ2VyQG1haWxpbmF0b3IuY29tIiwiaXNBZG1pblVzZXIiOiJGYWxzZSIsInByb2ZpbGVpZCI6IjEyMjAyIiwianRpIjoiZTUzNDk3ZDEtMGMyZS00YWUyLTg1YWMtNDRjMDdjZjhjM2MyIiwibmJmIjoxNzU5MjUyMjkyLCJleHAiOjE3NTkyOTU0OTIsImlhdCI6MTc1OTI1MjI5MiwiaXNzIjoiaHR0cHM6Ly94bnhtcy54bnByb3RlbC5jb20ifQ.QWEZbFSZm9i3svbFACmTe9zIkLt6bv3SYvpJ8yZFkaU; expires=Wed, 01 Oct 2025 05:11:32 GMT; path=/XMS/API/LocalResident/xmsWebApiQA/; secure; httponly",
+  "refresh_token_residentportal=ty2qlAVVTciMfZd4sqF1XJ79ynUYYvnlpoxSITicGMkjtd2UNXPwVTD%2FWYOiStFemZE5SUaoxFPriTrDP96cYg%3D%3D; expires=Wed, 01 Oct 2025 17:11:32 GMT; path=/XMS/API/LocalResident/xmsWebApiQA/; secure; httponly"
+]
