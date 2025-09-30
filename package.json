@@ -4,18 +4,22 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "get-user-token": "ts-node src/auto-login-auth0.ts"
   },
   "dependencies": {
     "@faker-js/faker": "^10.0.0",
     "@types/encoding-japanese": "^2.0.1",
     "@types/fs-extra": "^11.0.1",
+    "axios": "^1.12.2",
     "colors": "^1.4.0",
     "command-line-args": "^6.0.1",
+    "crypto": "^1.0.1",
     "dayjs": "^1.11.18",
     "encoding-japanese": "^2.0.0",
     "fs-extra": "^11.3.2",
     "nodemailer": "^7.0.6",
+    "playwright": "^1.55.1",
     "puppeteer": "^24.22.2",
     "uuid": "^13.0.0",
     "xlsx": "^0.18.5"
